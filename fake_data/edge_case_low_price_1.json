@@ -1,0 +1,56 @@
+{
+  "influencer_id": "EDGE-001",
+  "platform": "Instagram",
+  "content_type": "Story",
+  "creator_gender": "Female",
+  "primary_language": "English",
+  "creator_country": "US",
+  "date_of_birth": "2005-03-15",
+  "content_category": "Fashion & Beauty",
+  "content_subcategory": "Makeup Tutorials",
+  "audience_female_pct": 68.5,
+  "audience_male_pct": 30.2,
+  "audience_non_binary_pct": 1.3,
+  "age_distribution": {
+    "13-17": 45.2,
+    "18-24": 32.1,
+    "25-34": 15.3,
+    "35-44": 4.8,
+    "45-54": 1.9,
+    "55-64": 0.5,
+    "65+": 0.2
+  },
+  "country_distribution": {
+    "US": 72.3,
+    "CA": 12.4,
+    "UK": 8.1,
+    "AU": 4.2,
+    "MX": 3.0
+  },
+  "reach": 4500,
+  "followers": 2800,
+  "engagement_rate_pct": 8.5,
+  "engagement_weighted_followers": 238,
+  "reach_to_follower_ratio": 1.61,
+  "high_value_market_pct": 72.3,
+  "audience_concentration_score": 72.3,
+  "dominant_age_group": "13-17",
+  "platform_count": 1,
+  "creator_age_years": 20,
+  "niche_specificity_score": 0.82,
+  "female_dominant_flag": 1,
+  "age_alignment_score": 0.88,
+  "currency": "USD",
+  "rate_amount": 450,
+  "rate_per_1k_followers": 160.71,
+  "rate_per_engagement_point": 0.53,
+  "confidence_score": 0.72,
+  "edge_case_notes": "Micro-influencer with very low rate - brand questioning if worth investment despite good engagement",
+  "edge_case_questions": [
+    "Is $450 too cheap for the quality of content we're expecting?",
+    "Should we provide more product value since cash payment is so low?",
+    "Will low rate attract more influencers but lower quality?",
+    "How do we scale if we're paying this little per post?"
+  ]
+}
+

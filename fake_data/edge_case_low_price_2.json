@@ -1,0 +1,57 @@
+{
+  "influencer_id": "EDGE-002",
+  "platform": "TikTok",
+  "content_type": "Video",
+  "creator_gender": "Male",
+  "primary_language": "Spanish",
+  "creator_country": "MX",
+  "date_of_birth": "2002-08-22",
+  "content_category": "Food & Cooking",
+  "content_subcategory": "Street Food",
+  "audience_female_pct": 52.1,
+  "audience_male_pct": 46.8,
+  "audience_non_binary_pct": 1.1,
+  "age_distribution": {
+    "13-17": 22.5,
+    "18-24": 41.3,
+    "25-34": 25.6,
+    "35-44": 7.2,
+    "45-54": 2.4,
+    "55-64": 0.8,
+    "65+": 0.2
+  },
+  "country_distribution": {
+    "MX": 68.9,
+    "US": 18.2,
+    "ES": 7.4,
+    "BR": 3.5,
+    "CO": 2.0
+  },
+  "reach": 12400,
+  "followers": 8500,
+  "engagement_rate_pct": 11.2,
+  "engagement_weighted_followers": 952,
+  "reach_to_follower_ratio": 1.46,
+  "high_value_market_pct": 18.2,
+  "audience_concentration_score": 68.9,
+  "dominant_age_group": "18-24",
+  "platform_count": 2,
+  "creator_age_years": 23,
+  "niche_specificity_score": 0.91,
+  "female_dominant_flag": 0,
+  "age_alignment_score": 0.72,
+  "currency": "USD",
+  "rate_amount": 275,
+  "rate_per_1k_followers": 32.35,
+  "rate_per_engagement_point": 0.29,
+  "confidence_score": 0.68,
+  "edge_case_notes": "Extremely low rate for emerging creator in non-US market - brand unsure about ROI",
+  "edge_case_questions": [
+    "Is this rate sustainable for the influencer or will they ghost us?",
+    "Should we offer trade/product instead of cash?",
+    "Can we expect professional-quality content at this price point?",
+    "Will language barrier affect deliverables?",
+    "Is the audience quality good enough despite low US %?"
+  ]
+}
+

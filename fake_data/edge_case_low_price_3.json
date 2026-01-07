@@ -1,0 +1,57 @@
+{
+  "influencer_id": "EDGE-003",
+  "platform": "Instagram",
+  "content_type": "Post",
+  "creator_gender": "Non-Binary",
+  "primary_language": "English",
+  "creator_country": "IN",
+  "date_of_birth": "1998-11-10",
+  "content_category": "Lifestyle",
+  "content_subcategory": "Daily Vlog",
+  "audience_female_pct": 44.2,
+  "audience_male_pct": 54.1,
+  "audience_non_binary_pct": 1.7,
+  "age_distribution": {
+    "13-17": 18.4,
+    "18-24": 38.9,
+    "25-34": 28.5,
+    "35-44": 10.1,
+    "45-54": 3.2,
+    "55-64": 0.7,
+    "65+": 0.2
+  },
+  "country_distribution": {
+    "IN": 82.4,
+    "US": 8.3,
+    "UK": 4.2,
+    "CA": 2.8,
+    "AU": 2.3
+  },
+  "reach": 8200,
+  "followers": 5100,
+  "engagement_rate_pct": 6.8,
+  "engagement_weighted_followers": 346,
+  "reach_to_follower_ratio": 1.61,
+  "high_value_market_pct": 17.6,
+  "audience_concentration_score": 82.4,
+  "dominant_age_group": "18-24",
+  "platform_count": 1,
+  "creator_age_years": 26,
+  "niche_specificity_score": 0.45,
+  "female_dominant_flag": 0,
+  "age_alignment_score": 0.81,
+  "currency": "USD",
+  "rate_amount": 120,
+  "rate_per_1k_followers": 23.53,
+  "rate_per_engagement_point": 0.35,
+  "confidence_score": 0.55,
+  "edge_case_notes": "Very low budget campaign - questioning content quality and usage rights at this price",
+  "edge_case_questions": [
+    "At $120, can we even request revisions?",
+    "Should we bundle multiple creators at this price instead of one?",
+    "Do usage rights need to be limited given low payment?",
+    "Is this exploitative pricing or fair for micro-influencers?",
+    "Will creator prioritize higher-paying brands over us?"
+  ]
+}
+
