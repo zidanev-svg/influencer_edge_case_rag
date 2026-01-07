@@ -37,7 +37,7 @@ def initialize_pinecone():
     
     return pc.Index(INDEX_NAME)
 
-def load_influencer_documents(data_dir: str = "fake_data") -> List[Dict]:
+def load_influencer_documents(data_dir: str = "mock_data") -> List[Dict]:
     """Load all influencer pricing edge case JSON documents"""
     documents = []
     data_path = Path(data_dir)
