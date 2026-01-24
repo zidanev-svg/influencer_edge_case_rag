@@ -52,5 +52,14 @@ wheels/
 .installed.cfg
 *.egg
 
+# Lambda deployment
+lambda_function.zip
+lambda_package/
+LAMBDA_INSTRUCTIONS.md
+
+# Test results
+.pytest_cache/
+.coverage
+htmlcov/
 
 
